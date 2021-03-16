@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "title" : "Les Paul SE",
+    "mark" : "Gibson",
+    "image" :
+    "https://guitar-amp.ru/images/Gibson-Les-Paul-Standard-Premium-Plus-Heritage-Cherry-Sunburst-All-Original-2003-01_x1400.jpg",
+    "price" : 3000,
+    "rating" : 5
+
+  },
+  {
+    "id": 2,
+    "title" : "USA AG, Ebony",
+    "mark" : "Gibson",
+    "image" :
+    "https://cdn.shopify.com/s/files/1/1140/2426/products/Gibson-USA-SG-Standard-Electric-Guitar-2019-Ebony-11083-2_1600x1600.jpg?v=1571439239",
+    "price" : 1700,
+    "rating" : 5
+
+  },
+  {
+    "id": 3,
+    "title" : "Explorer custom",
+    "mark" : "Gibson",
+    "image" :
+    "https://i.pinimg.com/474x/75/a4/92/75a492a655305e0e1743234c885323d9.jpg",
+    "price" : 4700,
+    "rating" : 5
+
+  },
+  {
+    "id": 4,
+    "title" : "Flying V",
+    "mark" : "Gibson",
+    "image" :
+    "https://assets.suredone.com/2163/media-pics/ss2503-gibson-usa-custom-flying-v-black-electric-guitar-2016-w-hardshell.jpeg",
+    "price" : 3500,
+    "rating" : 5
+
+  },
+  {
+    "id": 5,
+    "title" : "Hollow Body",
+    "mark" : "Epiphone",
+    "image" :
+    "https://images.reverb.com/image/upload/s--MZn3NcS7--/f_auto,t_supersize/v1556046353/kkv5bvjfxal20wwa1ejj.jpg",
+    "price" : 2500,
+    "rating" : 4
+
+  },
+  {
+    "id": 6,
+    "title" : "ThunderBird",
+    "mark" : "Epiphone",
+    "image" :
+    "https://shop.r10s.jp/guitarplanet/cabinet/epiphone/tb_4_rev_vs_all.jpg",
+    "price" : 2000,
+    "rating" : 4
+
+  },
+  {
+    "id": 7,
+    "title" : "Bass Jack",
+    "mark" : "Epiphone",
+    "image" :
+    "https://max.guitars/media/catalog/product/cache/3f22b0a2dfabf8abf9e4e4098e8b1448/e/p/epiphone_jack_casady_signature_bass_11.jpg",
+    "price" : 2000,
+    "rating" : 3
+
+  },
+  {
+    "id": 8,
+    "title" : "EB-3-SG",
+    "mark" : "Epiphone",
+    "image" :
+    "https://guitarshopfolkestone.co.uk/wp-content/uploads/2018/09/Epiphone-EB-3-SG-Bass-Cherry-1.jpg",
+    "price" : 3000,
+    "rating" : 5
+
+  },
+  {
+    "id": 9,
+    "title" : "Telecaster",
+    "mark" : "Fender",
+    "image" :
+    "https://shop.fender.com/on/demandware.static/-/Library-Sites-Fender-Shared/default/dw42d305a0/fender/hp-2020/70th_Anniversary_mobile.jpg",
+    "price" : 2500,
+    "rating" : 4
+
+  },
+  {
+    "id": 10,
+    "title" : "Mustang PJ",
+    "mark" : "Fender",
+    "image" :
+    "https://cdn11.bigcommerce.com/s-qmkmkpbc/images/stencil/1280x1280/products/9069/58178/FEN-MUSTANG-PJ-BASS-PF-AGED-NATURAL-MX19212771-angle-left__03892.1583784663.jpg?c=2&imbypass=on",
+    "price" : 2000,
+    "rating" : 4
+
+  },
+  {
+    "id": 11,
+    "title" : "Stratocaster",
+    "mark" : "Fender",
+    "image" :
+    "https://images.reverb.com/image/upload/s--Gs0WPF0E--/f_auto,t_supersize/v1569020056/rl4bszefsho6sgasjuxr.jpg",
+    "price" : 3500,
+    "rating" : 5
+
+  },
+  {
+    "id": 12,
+    "title" : "Superstrar DELUX",
+    "mark" : "Fender",
+    "image" :
+    "https://assets.catawiki.nl/assets/2019/1/21/9/c/6/9c60b406-ae3c-4ae8-b5df-26df603e7e7d.jpg",
+    "price" : 4000,
+    "rating" : 5
+
+  },
+  {
+    "id": 13,
+    "title" : "SATIN BLACK",
+    "mark" : "Jackson",
+    "image" :
+    "https://www.muztorg.ru/files/2bw/9hd/hu9/hhc/o8s/8oo/w0k/skg/o/2bw9hdhu9hhco8s8oow0kskgo.jpg",
+    "price" : 1000,
+    "rating" : 3
+
+  },
+  {
+    "id": 14,
+    "title" : "Kelly",
+    "mark" : "Jackson",
+    "image" :
+    "https://d3inagkmqs1m6q.cloudfront.net/2163/media-pics/ss2340-jackson-kelly-kexq-tr-trans-black-burst-guitar-x-series.jpeg",
+    "price" : 3000,
+    "rating" : 5
+
+  },
+  {
+    "id": 15,
+    "title" : "Demelington",
+    "mark" : "Jackson",
+    "image" :
+    "https://www.muztorg.ru/files/bsu/wxv/e97/g0s/wk8/sw8/g84/0o4/g/bsuwxve97g0swk8sw8g840o4g.JPG",
+    "price" : 3000,
+    "rating" : 5
+
+  },
+  {
+    "id": 16,
+    "title" : "Custom Shop",
+    "mark" : "Jackson",
+    "image" :
+    "https://images.reverb.com/image/upload/s--h_YPXeee--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_1600,q_80,w_1600/v1489708467/l4yssg3gkabgzaqjanee.jpg",
+    "price" : 3000,
+    "rating" : 4
+
+  },
+  {
+    "id": 17,
+    "title" : "Telecaster",
+    "mark" : "Ibanez",
+    "image" :
+    "https://i.pinimg.com/originals/d2/73/87/d27387504b86cb60cb045548232d3f3b.jpg",
+    "price" : 3000,
+    "rating" : 4
+
+  },
+  {
+    "id": 18,
+    "title" : "Stratocaster",
+    "mark" : "Ibanez",
+    "image" :
+    "https://shop.r10s.jp/guitarplanet/cabinet/ibanez/rg550_red_all.jpg",
+    "price" : 3000,
+    "rating" : 5
+
+  },
+  {
+    "id": 19,
+    "title" : "PSP limited Edition",
+    "mark" : "Ibanez",
+    "image" :
+    "https://cdn.shopify.com/s/files/1/0662/5339/products/Ibanez_PS120SPSSP_Paul_Stanley_Signature_guitar_large.jpg?v=1477315264",
+    "price" : 6000,
+    "rating" : 5
+
+  },
+  {
+    "id": 20,
+    "title" : "Custom",
+    "mark" : "Ibanez",
+    "image" :
+    "https://www.pitbullaudio.com/media/catalog/product/d/s/dsc07844.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=",
+    "price" : 4500,
+    "rating" : 5
+
+  },
+  {
+    "id": 21,
+    "title" : "Inlayne",
+    "mark" : "ESP",
+    "image" :
+    "https://i.pinimg.com/originals/ec/27/fa/ec27fa9a7de7dc4021e497f5054ff46f.webp",
+    "price" : 4800,
+    "rating" : 5
+
+  }
+]
